@@ -1,0 +1,22 @@
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[project]
+name = "berserk-CLI"
+version = "0.0.1"
+authors = [
+  { name="Zachary Keyes", email="zachkeyes0650@gmail.com" },
+]
+description = "A pretty command-line interface for LiChess."
+readme = "README.md"
+requires-python = ">=3.7"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+]
+
+[project.urls
+"Homepage" = "https://github.com/imzoc/berserk-CLI"
+"Bug Tracker" = "https://github.com/imzoc/berserk-CLI/issues"
