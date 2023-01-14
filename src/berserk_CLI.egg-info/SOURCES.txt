@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+src/berserk-CLI/__init__.py
+src/berserk-CLI/example.py
+src/berserk-CLI/main.py
+src/berserk_CLI.egg-info/PKG-INFO
+src/berserk_CLI.egg-info/SOURCES.txt
+src/berserk_CLI.egg-info/dependency_links.txt
+src/berserk_CLI.egg-info/top_level.txt
